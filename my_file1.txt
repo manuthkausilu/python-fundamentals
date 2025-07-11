@@ -1,0 +1,4 @@
+I am a developer.
+Python programming.
+This is new.
+writelines() method. 
